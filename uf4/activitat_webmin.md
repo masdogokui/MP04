@@ -1,5 +1,5 @@
 # Utilitzant webmin per administrar el servidor
-
+ññ
 - Entregueu link a un repositori **públic** (un link per alumne) de Github on feu les següents tasques.
 - Expliqueu el que feu amb text i captures.
 - **Fer tot des de webmin**
